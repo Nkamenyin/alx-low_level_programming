@@ -23,8 +23,8 @@ void puts2(char *str)
 		if (o % 2 == 0)
 	{
 		_putchar(str[o]);
+		str++;
 	}
-		(char str[o]);
 	}
 	_putchar('\n');
 }
