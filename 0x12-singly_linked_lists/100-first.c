@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include "lists.h"
 
 /**
  * first - it prints a sentence before main function
