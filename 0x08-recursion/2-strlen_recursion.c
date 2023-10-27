@@ -2,8 +2,8 @@
 
 /**
  * _strlen_recursion - function that returns the length of a string.
- *@s: imput value
-Return: length of string
+ *@s: length of string
+Return: The length of string
 */
 int _strlen_recursion(char *s)
 {
