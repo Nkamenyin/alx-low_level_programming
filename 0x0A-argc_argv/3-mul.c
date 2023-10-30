@@ -49,11 +49,11 @@ int _atoi(char *s)
  * main - it multiplies two numbers
  *@argc: the arguargument count
  *@argv: array of argumarguments
- *Return: 0
+ *Return: 0 (Succes), 1 (Error)
  */
 int main(int argc, char *argv[])
 {
-	if (argc != 3)
+	if (argc < 3 || argc > 3)
 	{
 		printf("ERROR\n");
 		return (1);
