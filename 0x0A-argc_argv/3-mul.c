@@ -3,8 +3,8 @@
 
 /**
  * main - it multiplies two numbers
- *@argc: the arguargument count
- *@argv: array of argumarguments
+ *@argc: the argument count
+ *@argv: array of arguments
  *Return: 0 (Succes), 1 (Error)
  */
 int main(int argc, char *argv[])

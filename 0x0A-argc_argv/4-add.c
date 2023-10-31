@@ -1,10 +1,11 @@
 #include "main.h"
 #include <ctype.h>
+#include <stdlib.h>
 
 /**
  * main - this program adds positive numbers.
  *@argc: the argument count
- *@argv: array of argumenarguments
+ *@argv: array of arguments
  *Returns: 0
  */
 int main(int argc, char *argv[])
