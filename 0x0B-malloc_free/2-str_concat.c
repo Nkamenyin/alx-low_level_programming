@@ -2,8 +2,8 @@
 
 /**
  * str_concat - a function that concatenates two strings
- *@s1: input parameter
- *@s2: input parameter
+ *@s1: input to concat
+ *@s2: input to concat
  * Reurn: concat of s1 and s2
  */
 char *str_concat(char *s1, char *s2)
