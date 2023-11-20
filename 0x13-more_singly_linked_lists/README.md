@@ -1,1 +1,1 @@
-more of the singly linked list in c
+more singly linked list in c
